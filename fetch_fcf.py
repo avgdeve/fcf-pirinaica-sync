@@ -36,19 +36,25 @@ def get_json(url, retries=3, delay=2):
     raise RuntimeError(f"No se pudo descargar {url}: {last_err}")
 
 
-def write_json(name, data):
+def write_json(name, data, sort_keys=True):
     path = os.path.join(DATA_DIR, name)
     os.makedirs(DATA_DIR, exist_ok=True)
     with open(path, "w", encoding="utf-8") as f:
-        json.dump(data, f, ensure_ascii=False, indent=2, sort_keys=True)
+        json.dump(data, f, ensure_ascii=False, indent=2, sort_keys=sort_keys)
 
 
 def main():
     partidos = get_json(f"{BASE}/partidos?grupId={GRUP_ID}")
     classificacio = get_json(f"{BASE}/classificacio?grupId={GRUP_ID}")
 
+    # Ordenamos las jornadas numéricamente (1,2,3...30) en vez de alfabéticamente
+    # (1,10,11...2,20...), para que sean fáciles de leer en orden.
+    partidos_ordenado = {
+        str(j): partidos[j] for j in sorted(partidos.keys(), key=lambda x: int(x))
+    }
+
     actas = {}
-    for _jornada, partidos_jornada in partidos.items():
+    for _jornada, partidos_jornada in partidos_ordenado.items():
         if not isinstance(partidos_jornada, list):
             continue
         for p in partidos_jornada:
@@ -62,7 +68,7 @@ def main():
                 except RuntimeError as e:
                     print(f"Aviso: no se pudo descargar el acta {codacta}: {e}")
 
-    write_json("partidos.json", partidos)
+    write_json("partidos.json", partidos_ordenado, sort_keys=False)
     write_json("classificacio.json", classificacio)
     write_json("actas.json", actas)
     write_json("meta.json", {
@@ -71,7 +77,7 @@ def main():
         "teamId": TEAM_ID,
     })
 
-    n_partidos = sum(len(v) for v in partidos.values() if isinstance(v, list))
+    n_partidos = sum(len(v) for v in partidos_ordenado.values() if isinstance(v, list))
     n_equipos = len(classificacio.get("data", []))
     print(
         f"OK: {n_partidos} partidos, {n_equipos} equipos en clasificación, "
