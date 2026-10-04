@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 """
 Descarga los datos públicos de fcf.cat (partidos, clasificación y actas de
-la Pirinaica, F.C. A) y los vuelca en data/fcf.json dentro de este repo.
-Solo lee datos públicos, no requiere ninguna clave ni login.
+la Pirinaica, F.C. A) y los guarda en archivos separados dentro de data/,
+cada uno con la misma forma que el endpoint original de fcf.cat.
 """
 
 import json
@@ -19,7 +19,7 @@ HEADERS = {
     "User-Agent": "Mozilla/5.0 (compatible; fcf-sync-bot/1.0)",
     "Accept": "application/json",
 }
-OUT_PATH = os.path.join("data", "fcf.json")
+DATA_DIR = "data"
 
 
 def get_json(url, retries=3, delay=2):
@@ -34,6 +34,13 @@ def get_json(url, retries=3, delay=2):
             if attempt < retries:
                 time.sleep(delay)
     raise RuntimeError(f"No se pudo descargar {url}: {last_err}")
+
+
+def write_json(name, data):
+    path = os.path.join(DATA_DIR, name)
+    os.makedirs(DATA_DIR, exist_ok=True)
+    with open(path, "w", encoding="utf-8") as f:
+        json.dump(data, f, ensure_ascii=False, indent=2, sort_keys=True)
 
 
 def main():
@@ -55,18 +62,14 @@ def main():
                 except RuntimeError as e:
                     print(f"Aviso: no se pudo descargar el acta {codacta}: {e}")
 
-    out = {
+    write_json("partidos.json", partidos)
+    write_json("classificacio.json", classificacio)
+    write_json("actas.json", actas)
+    write_json("meta.json", {
         "generated_at": datetime.now(timezone.utc).isoformat(timespec="seconds"),
         "grupId": GRUP_ID,
         "teamId": TEAM_ID,
-        "partidos": partidos,
-        "classificacio": classificacio,
-        "actas": actas,
-    }
-
-    os.makedirs(os.path.dirname(OUT_PATH), exist_ok=True)
-    with open(OUT_PATH, "w", encoding="utf-8") as f:
-        json.dump(out, f, ensure_ascii=False, indent=2, sort_keys=True)
+    })
 
     n_partidos = sum(len(v) for v in partidos.values() if isinstance(v, list))
     n_equipos = len(classificacio.get("data", []))
