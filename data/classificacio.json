@@ -246,6 +246,71 @@
       "won": 2
     },
     {
+      "coefficient": "2.0000",
+      "drawn": 0,
+      "form": [
+        {
+          "actaId": "4108905",
+          "away": {
+            "goals": "1",
+            "logo": "00100_0000485476_NATACIO_TERRASSA,_C.jpeg_copia.png",
+            "name": "NATACIO TERRASSA, C A"
+          },
+          "date": "2026-10-03T00:00:00.000Z",
+          "home": {
+            "goals": "2",
+            "logo": "00100_0001021780_Escut_Gimna__768_stic_Manresa_removebg_preview.png",
+            "name": "GIMNASTIC MANRESA, C.F. A"
+          },
+          "result": "P"
+        },
+        {
+          "actaId": "4108898",
+          "away": {
+            "goals": "0",
+            "logo": "00100_0000661616_molletense_200x200.png",
+            "name": "MOLLETENSE, U.D. A"
+          },
+          "date": "2026-09-27T00:00:00.000Z",
+          "home": {
+            "goals": "1",
+            "logo": "00100_0000485476_NATACIO_TERRASSA,_C.jpeg_copia.png",
+            "name": "NATACIO TERRASSA, C A"
+          },
+          "result": "G"
+        },
+        {
+          "actaId": "4108890",
+          "away": {
+            "goals": "3",
+            "logo": "00100_0000485476_NATACIO_TERRASSA,_C.jpeg_copia.png",
+            "name": "NATACIO TERRASSA, C A"
+          },
+          "date": "2026-09-19T00:00:00.000Z",
+          "home": {
+            "goals": "2",
+            "logo": "00100_0000971702_Escut_Joanenc.png",
+            "name": "JOANENC, F.C. A"
+          },
+          "result": "G"
+        }
+      ],
+      "goalsAgainst": "4",
+      "goalsFor": "5",
+      "lost": 1,
+      "played": 3,
+      "points": "6.00",
+      "position": "5",
+      "sanction": "0",
+      "team": {
+        "clubId": "2976",
+        "logo": "00100_0000485476_NATACIO_TERRASSA,_C.jpeg_copia.png",
+        "name": "NATACIO TERRASSA, C A",
+        "teamId": "31800364"
+      },
+      "won": 2
+    },
+    {
       "coefficient": "1.6667",
       "drawn": 2,
       "form": [
@@ -300,78 +365,13 @@
       "lost": 0,
       "played": 3,
       "points": "5.00",
-      "position": "5",
+      "position": "6",
       "sanction": "0",
       "team": {
         "clubId": "4024",
         "logo": "00100_0000207364_escut_centenari_cf_balaguer.png",
         "name": "BALAGUER, C.F. A",
         "teamId": "18472314"
-      },
-      "won": 1
-    },
-    {
-      "coefficient": "3.0000",
-      "drawn": 0,
-      "form": [
-        {
-          "actaId": "4108906",
-          "away": {
-            "goals": null,
-            "logo": "00100_0001268551_pirinaica.jpg",
-            "name": "PIRINAICA, F.C. A"
-          },
-          "date": "2026-10-03T00:00:00.000Z",
-          "home": {
-            "goals": null,
-            "logo": "00100_0000661616_molletense_200x200.png",
-            "name": "MOLLETENSE, U.D. A"
-          },
-          "result": "E"
-        },
-        {
-          "actaId": "4108898",
-          "away": {
-            "goals": null,
-            "logo": "00100_0000661616_molletense_200x200.png",
-            "name": "MOLLETENSE, U.D. A"
-          },
-          "date": "2026-09-27T00:00:00.000Z",
-          "home": {
-            "goals": null,
-            "logo": "00100_0000485476_NATACIO_TERRASSA,_C.jpeg_copia.png",
-            "name": "NATACIO TERRASSA, C A"
-          },
-          "result": "E"
-        },
-        {
-          "actaId": "4108889",
-          "away": {
-            "goals": "1",
-            "logo": "00100_0000579415_urgell_200x200.png",
-            "name": "LA SEU D'URGELL, F.C. A"
-          },
-          "date": "2026-09-19T00:00:00.000Z",
-          "home": {
-            "goals": "2",
-            "logo": "00100_0000661616_molletense_200x200.png",
-            "name": "MOLLETENSE, U.D. A"
-          },
-          "result": "G"
-        }
-      ],
-      "goalsAgainst": "1",
-      "goalsFor": "2",
-      "lost": 0,
-      "played": 1,
-      "points": "3.00",
-      "position": "6",
-      "sanction": "0",
-      "team": {
-        "clubId": "1551",
-        "logo": "00100_0000661616_molletense_200x200.png",
-        "name": "MOLLETENSE, U.D. A",
-        "teamId": "33637"
       },
       "won": 1
     },
@@ -441,71 +441,6 @@
       "won": 1
     },
     {
-      "coefficient": "1.5000",
-      "drawn": 0,
-      "form": [
-        {
-          "actaId": "4108905",
-          "away": {
-            "goals": "1",
-            "logo": "00100_0000485476_NATACIO_TERRASSA,_C.jpeg_copia.png",
-            "name": "NATACIO TERRASSA, C A"
-          },
-          "date": "2026-10-03T00:00:00.000Z",
-          "home": {
-            "goals": "2",
-            "logo": "00100_0001021780_Escut_Gimna__768_stic_Manresa_removebg_preview.png",
-            "name": "GIMNASTIC MANRESA, C.F. A"
-          },
-          "result": "P"
-        },
-        {
-          "actaId": "4108898",
-          "away": {
-            "goals": null,
-            "logo": "00100_0000661616_molletense_200x200.png",
-            "name": "MOLLETENSE, U.D. A"
-          },
-          "date": "2026-09-27T00:00:00.000Z",
-          "home": {
-            "goals": null,
-            "logo": "00100_0000485476_NATACIO_TERRASSA,_C.jpeg_copia.png",
-            "name": "NATACIO TERRASSA, C A"
-          },
-          "result": "E"
-        },
-        {
-          "actaId": "4108890",
-          "away": {
-            "goals": "3",
-            "logo": "00100_0000485476_NATACIO_TERRASSA,_C.jpeg_copia.png",
-            "name": "NATACIO TERRASSA, C A"
-          },
-          "date": "2026-09-19T00:00:00.000Z",
-          "home": {
-            "goals": "2",
-            "logo": "00100_0000971702_Escut_Joanenc.png",
-            "name": "JOANENC, F.C. A"
-          },
-          "result": "G"
-        }
-      ],
-      "goalsAgainst": "4",
-      "goalsFor": "4",
-      "lost": 1,
-      "played": 2,
-      "points": "3.00",
-      "position": "8",
-      "sanction": "0",
-      "team": {
-        "clubId": "2976",
-        "logo": "00100_0000485476_NATACIO_TERRASSA,_C.jpeg_copia.png",
-        "name": "NATACIO TERRASSA, C A",
-        "teamId": "31800364"
-      },
-      "won": 1
-    },
-    {
       "coefficient": "1.0000",
       "drawn": 3,
       "form": [
@@ -560,7 +495,7 @@
       "lost": 0,
       "played": 3,
       "points": "3.00",
-      "position": "9",
+      "position": "8",
       "sanction": "0",
       "team": {
         "clubId": "34785031",
@@ -610,13 +545,78 @@
       "lost": 1,
       "played": 2,
       "points": "3.00",
-      "position": "10",
+      "position": "9",
       "sanction": "0",
       "team": {
         "clubId": "6091",
         "logo": "00100_0000879078_llefia_200.png",
         "name": "UNIFICACION LLEFIA,CF. A",
         "teamId": "33043"
+      },
+      "won": 1
+    },
+    {
+      "coefficient": "1.5000",
+      "drawn": 0,
+      "form": [
+        {
+          "actaId": "4108906",
+          "away": {
+            "goals": null,
+            "logo": "00100_0001268551_pirinaica.jpg",
+            "name": "PIRINAICA, F.C. A"
+          },
+          "date": "2026-10-03T00:00:00.000Z",
+          "home": {
+            "goals": null,
+            "logo": "00100_0000661616_molletense_200x200.png",
+            "name": "MOLLETENSE, U.D. A"
+          },
+          "result": "E"
+        },
+        {
+          "actaId": "4108898",
+          "away": {
+            "goals": "0",
+            "logo": "00100_0000661616_molletense_200x200.png",
+            "name": "MOLLETENSE, U.D. A"
+          },
+          "date": "2026-09-27T00:00:00.000Z",
+          "home": {
+            "goals": "1",
+            "logo": "00100_0000485476_NATACIO_TERRASSA,_C.jpeg_copia.png",
+            "name": "NATACIO TERRASSA, C A"
+          },
+          "result": "P"
+        },
+        {
+          "actaId": "4108889",
+          "away": {
+            "goals": "1",
+            "logo": "00100_0000579415_urgell_200x200.png",
+            "name": "LA SEU D'URGELL, F.C. A"
+          },
+          "date": "2026-09-19T00:00:00.000Z",
+          "home": {
+            "goals": "2",
+            "logo": "00100_0000661616_molletense_200x200.png",
+            "name": "MOLLETENSE, U.D. A"
+          },
+          "result": "G"
+        }
+      ],
+      "goalsAgainst": "2",
+      "goalsFor": "2",
+      "lost": 1,
+      "played": 2,
+      "points": "3.00",
+      "position": "9",
+      "sanction": "0",
+      "team": {
+        "clubId": "1551",
+        "logo": "00100_0000661616_molletense_200x200.png",
+        "name": "MOLLETENSE, U.D. A",
+        "teamId": "33637"
       },
       "won": 1
     },
