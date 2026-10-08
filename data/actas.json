@@ -1288,7 +1288,7 @@
         "ORDEN": "0",
         "TIPO_ARBITRO": "1",
         "codigo_delegacion": "29",
-        "delegacion": "Barcelona",
+        "delegacion": "Barcelona1",
         "nombre_arbitro": "REDONDO CARRERA, BENJAMIN",
         "rol": "Principal"
       },
@@ -1298,7 +1298,7 @@
         "ORDEN": "1",
         "TIPO_ARBITRO": "2",
         "codigo_delegacion": "29",
-        "delegacion": "Barcelona",
+        "delegacion": "Barcelona1",
         "nombre_arbitro": "QUESADA ORTIZ, JESUS",
         "rol": "Assistent 1"
       },
@@ -1308,7 +1308,7 @@
         "ORDEN": "2",
         "TIPO_ARBITRO": "2",
         "codigo_delegacion": "29",
-        "delegacion": "Barcelona",
+        "delegacion": "Barcelona1",
         "nombre_arbitro": "ROIG SARRA, OSCAR",
         "rol": "Assistent 2"
       }

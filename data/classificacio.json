@@ -56,6 +56,7 @@
       "played": 3,
       "points": "9.00",
       "position": "1",
+      "promotionColor": "#5fcb5b",
       "sanction": "0",
       "team": {
         "clubId": "1120",
@@ -121,6 +122,7 @@
       "played": 2,
       "points": "6.00",
       "position": "2",
+      "promotionColor": "#90caf9",
       "sanction": "0",
       "team": {
         "clubId": "2036",
@@ -186,6 +188,7 @@
       "played": 3,
       "points": "6.00",
       "position": "3",
+      "promotionColor": "#fac34e",
       "sanction": "0",
       "team": {
         "clubId": "50599707",
@@ -236,6 +239,7 @@
       "played": 2,
       "points": "6.00",
       "position": "4",
+      "promotionColor": null,
       "sanction": "0",
       "team": {
         "clubId": "1035",
@@ -301,6 +305,7 @@
       "played": 3,
       "points": "6.00",
       "position": "5",
+      "promotionColor": null,
       "sanction": "0",
       "team": {
         "clubId": "2976",
@@ -366,6 +371,7 @@
       "played": 3,
       "points": "5.00",
       "position": "6",
+      "promotionColor": null,
       "sanction": "0",
       "team": {
         "clubId": "4024",
@@ -431,6 +437,7 @@
       "played": 3,
       "points": "3.00",
       "position": "7",
+      "promotionColor": null,
       "sanction": "0",
       "team": {
         "clubId": "4081",
@@ -496,6 +503,7 @@
       "played": 3,
       "points": "3.00",
       "position": "8",
+      "promotionColor": null,
       "sanction": "0",
       "team": {
         "clubId": "34785031",
@@ -546,6 +554,7 @@
       "played": 2,
       "points": "3.00",
       "position": "9",
+      "promotionColor": null,
       "sanction": "0",
       "team": {
         "clubId": "6091",
@@ -611,6 +620,7 @@
       "played": 2,
       "points": "3.00",
       "position": "9",
+      "promotionColor": null,
       "sanction": "0",
       "team": {
         "clubId": "1551",
@@ -661,6 +671,7 @@
       "played": 2,
       "points": "2.00",
       "position": "11",
+      "promotionColor": null,
       "sanction": "0",
       "team": {
         "clubId": "1528",
@@ -726,6 +737,7 @@
       "played": 3,
       "points": "2.00",
       "position": "12",
+      "promotionColor": null,
       "sanction": "0",
       "team": {
         "clubId": "1029",
@@ -776,6 +788,7 @@
       "played": 2,
       "points": "1.00",
       "position": "13",
+      "promotionColor": "#e5322d",
       "sanction": "0",
       "team": {
         "clubId": "1044",
@@ -841,6 +854,7 @@
       "played": 3,
       "points": "1.00",
       "position": "14",
+      "promotionColor": "#e5322d",
       "sanction": "0",
       "team": {
         "clubId": "4031",
@@ -906,6 +920,7 @@
       "played": 3,
       "points": "1.00",
       "position": "15",
+      "promotionColor": "#e5322d",
       "sanction": "0",
       "team": {
         "clubId": "4064",
@@ -971,6 +986,7 @@
       "played": 3,
       "points": "0.00",
       "position": "16",
+      "promotionColor": "#e5322d",
       "sanction": "0",
       "team": {
         "clubId": "1375",
