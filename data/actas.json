@@ -1020,7 +1020,7 @@
         "capitan": "0",
         "dorsal": "3",
         "id": "20348435",
-        "nombre": "Jugador/a",
+        "nombre": "ADRIÁ",
         "portero": 0,
         "titular": "0"
       },
@@ -1152,7 +1152,7 @@
         "id_jugador_entra": "20348435",
         "id_jugador_sale": "18558800",
         "minuto": "78",
-        "nombre_jugador_entra": "Jugador/a",
+        "nombre_jugador_entra": "ADRIÁ",
         "nombre_jugador_sale": "SERRAN CALSINA, BERNAT",
         "saledorsal": "16"
       }
