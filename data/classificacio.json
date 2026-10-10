@@ -316,6 +316,72 @@
       "won": 2
     },
     {
+      "coefficient": "2.0000",
+      "drawn": 0,
+      "form": [
+        {
+          "actaId": "4108910",
+          "away": {
+            "goals": "1",
+            "logo": "00100_0000879078_llefia_200.png",
+            "name": "UNIFICACION LLEFIA,CF. A"
+          },
+          "date": "2026-10-10T00:00:00.000Z",
+          "home": {
+            "goals": "0",
+            "logo": "00100_0000988633_TERRASSAFCnou.png",
+            "name": "FUNDACIÓ TERRASSA FC 1906 A"
+          },
+          "result": "G"
+        },
+        {
+          "actaId": "4108894",
+          "away": {
+            "goals": "0",
+            "logo": "00100_0000879078_llefia_200.png",
+            "name": "UNIFICACION LLEFIA,CF. A"
+          },
+          "date": "2026-09-27T00:00:00.000Z",
+          "home": {
+            "goals": "2",
+            "logo": "00100_0000207364_escut_centenari_cf_balaguer.png",
+            "name": "BALAGUER, C.F. A"
+          },
+          "result": "P"
+        },
+        {
+          "actaId": "4108893",
+          "away": {
+            "goals": "0",
+            "logo": "00100_0000104829_ue_balafia.png",
+            "name": "BALAFIA, C.F.U.E. A"
+          },
+          "date": "2026-09-20T00:00:00.000Z",
+          "home": {
+            "goals": "2",
+            "logo": "00100_0000879078_llefia_200.png",
+            "name": "UNIFICACION LLEFIA,CF. A"
+          },
+          "result": "G"
+        }
+      ],
+      "goalsAgainst": "2",
+      "goalsFor": "3",
+      "lost": 1,
+      "played": 3,
+      "points": "6.00",
+      "position": "6",
+      "promotionColor": null,
+      "sanction": "0",
+      "team": {
+        "clubId": "6091",
+        "logo": "00100_0000879078_llefia_200.png",
+        "name": "UNIFICACION LLEFIA,CF. A",
+        "teamId": "33043"
+      },
+      "won": 2
+    },
+    {
       "coefficient": "1.6667",
       "drawn": 2,
       "form": [
@@ -370,7 +436,7 @@
       "lost": 0,
       "played": 3,
       "points": "5.00",
-      "position": "6",
+      "position": "7",
       "promotionColor": null,
       "sanction": "0",
       "team": {
@@ -383,7 +449,7 @@
     },
     {
       "coefficient": "1.0000",
-      "drawn": 0,
+      "drawn": 1,
       "form": [
         {
           "actaId": "4108908",
@@ -431,12 +497,12 @@
           "result": "P"
         }
       ],
-      "goalsAgainst": "5",
-      "goalsFor": "5",
+      "goalsAgainst": "7",
+      "goalsFor": "7",
       "lost": 2,
-      "played": 3,
-      "points": "3.00",
-      "position": "7",
+      "played": 4,
+      "points": "4.00",
+      "position": "8",
       "promotionColor": null,
       "sanction": "0",
       "team": {
@@ -449,118 +515,82 @@
     },
     {
       "coefficient": "1.0000",
-      "drawn": 3,
+      "drawn": 1,
       "form": [
         {
-          "actaId": "4108902",
-          "away": {
-            "goals": "2",
-            "logo": "00100_0000988633_TERRASSAFCnou.png",
-            "name": "FUNDACIÓ TERRASSA FC 1906 A"
-          },
-          "date": "2026-10-04T00:00:00.000Z",
-          "home": {
-            "goals": "2",
-            "logo": "00100_0000207364_escut_centenari_cf_balaguer.png",
-            "name": "BALAGUER, C.F. A"
-          },
-          "result": "E"
-        },
-        {
-          "actaId": "4108895",
+          "actaId": "4108912",
           "away": {
             "goals": "0",
             "logo": "00100_0001025823_Escudo_vectorial_Final.png",
             "name": "JUVENTUD 25 DE SEPTIEMBRE A"
           },
-          "date": "2026-09-26T00:00:00.000Z",
+          "date": "2026-10-10T00:00:00.000Z",
           "home": {
-            "goals": "0",
-            "logo": "00100_0000988633_TERRASSAFCnou.png",
-            "name": "FUNDACIÓ TERRASSA FC 1906 A"
+            "goals": "1",
+            "logo": "00100_0000579415_urgell_200x200.png",
+            "name": "LA SEU D'URGELL, F.C. A"
           },
-          "result": "E"
+          "result": "G"
         },
         {
-          "actaId": "4108887",
+          "actaId": "4108904",
           "away": {
-            "goals": "1",
-            "logo": "00100_0000988633_TERRASSAFCnou.png",
-            "name": "FUNDACIÓ TERRASSA FC 1906 A"
+            "goals": "0",
+            "logo": "00100_0000579415_urgell_200x200.png",
+            "name": "LA SEU D'URGELL, F.C. A"
           },
-          "date": "2026-09-20T00:00:00.000Z",
+          "date": "2026-10-04T00:00:00.000Z",
           "home": {
-            "goals": "1",
+            "goals": "0",
             "logo": "00100_0000001615_sc00737bb2.png",
             "name": "PUIGREIG, C.E. A"
           },
           "result": "E"
-        }
-      ],
-      "goalsAgainst": "3",
-      "goalsFor": "3",
-      "lost": 0,
-      "played": 3,
-      "points": "3.00",
-      "position": "8",
-      "promotionColor": null,
-      "sanction": "0",
-      "team": {
-        "clubId": "34785031",
-        "logo": "00100_0000988633_TERRASSAFCnou.png",
-        "name": "FUNDACIÓ TERRASSA FC 1906 A",
-        "teamId": "35378709"
-      },
-      "won": 0
-    },
-    {
-      "coefficient": "1.5000",
-      "drawn": 0,
-      "form": [
+        },
         {
-          "actaId": "4108894",
+          "actaId": "4108897",
           "away": {
-            "goals": "0",
-            "logo": "00100_0000879078_llefia_200.png",
-            "name": "UNIFICACION LLEFIA,CF. A"
+            "goals": "3",
+            "logo": "00100_0001021780_Escut_Gimna__768_stic_Manresa_removebg_preview.png",
+            "name": "GIMNASTIC MANRESA, C.F. A"
           },
-          "date": "2026-09-27T00:00:00.000Z",
+          "date": "2026-09-26T00:00:00.000Z",
           "home": {
-            "goals": "2",
-            "logo": "00100_0000207364_escut_centenari_cf_balaguer.png",
-            "name": "BALAGUER, C.F. A"
+            "goals": "0",
+            "logo": "00100_0000579415_urgell_200x200.png",
+            "name": "LA SEU D'URGELL, F.C. A"
           },
           "result": "P"
         },
         {
-          "actaId": "4108893",
+          "actaId": "4108889",
           "away": {
-            "goals": "0",
-            "logo": "00100_0000104829_ue_balafia.png",
-            "name": "BALAFIA, C.F.U.E. A"
+            "goals": "1",
+            "logo": "00100_0000579415_urgell_200x200.png",
+            "name": "LA SEU D'URGELL, F.C. A"
           },
-          "date": "2026-09-20T00:00:00.000Z",
+          "date": "2026-09-19T00:00:00.000Z",
           "home": {
             "goals": "2",
-            "logo": "00100_0000879078_llefia_200.png",
-            "name": "UNIFICACION LLEFIA,CF. A"
+            "logo": "00100_0000661616_molletense_200x200.png",
+            "name": "MOLLETENSE, U.D. A"
           },
-          "result": "G"
+          "result": "P"
         }
       ],
-      "goalsAgainst": "2",
+      "goalsAgainst": "5",
       "goalsFor": "2",
-      "lost": 1,
-      "played": 2,
-      "points": "3.00",
+      "lost": 2,
+      "played": 4,
+      "points": "4.00",
       "position": "9",
       "promotionColor": null,
       "sanction": "0",
       "team": {
-        "clubId": "6091",
-        "logo": "00100_0000879078_llefia_200.png",
-        "name": "UNIFICACION LLEFIA,CF. A",
-        "teamId": "33043"
+        "clubId": "4031",
+        "logo": "00100_0000579415_urgell_200x200.png",
+        "name": "LA SEU D'URGELL, F.C. A",
+        "teamId": "34830"
       },
       "won": 1
     },
@@ -619,7 +649,7 @@
       "lost": 1,
       "played": 2,
       "points": "3.00",
-      "position": "9",
+      "position": "10",
       "promotionColor": null,
       "sanction": "0",
       "team": {
@@ -631,9 +661,39 @@
       "won": 1
     },
     {
-      "coefficient": "1.0000",
-      "drawn": 2,
+      "coefficient": "0.7500",
+      "drawn": 3,
       "form": [
+        {
+          "actaId": "4108910",
+          "away": {
+            "goals": "1",
+            "logo": "00100_0000879078_llefia_200.png",
+            "name": "UNIFICACION LLEFIA,CF. A"
+          },
+          "date": "2026-10-10T00:00:00.000Z",
+          "home": {
+            "goals": "0",
+            "logo": "00100_0000988633_TERRASSAFCnou.png",
+            "name": "FUNDACIÓ TERRASSA FC 1906 A"
+          },
+          "result": "P"
+        },
+        {
+          "actaId": "4108902",
+          "away": {
+            "goals": "2",
+            "logo": "00100_0000988633_TERRASSAFCnou.png",
+            "name": "FUNDACIÓ TERRASSA FC 1906 A"
+          },
+          "date": "2026-10-04T00:00:00.000Z",
+          "home": {
+            "goals": "2",
+            "logo": "00100_0000207364_escut_centenari_cf_balaguer.png",
+            "name": "BALAGUER, C.F. A"
+          },
+          "result": "E"
+        },
         {
           "actaId": "4108895",
           "away": {
@@ -650,36 +710,102 @@
           "result": "E"
         },
         {
-          "actaId": "4108886",
+          "actaId": "4108887",
           "away": {
-            "goals": "0",
-            "logo": "00100_0000207364_escut_centenari_cf_balaguer.png",
-            "name": "BALAGUER, C.F. A"
+            "goals": "1",
+            "logo": "00100_0000988633_TERRASSAFCnou.png",
+            "name": "FUNDACIÓ TERRASSA FC 1906 A"
           },
           "date": "2026-09-20T00:00:00.000Z",
           "home": {
-            "goals": "0",
-            "logo": "00100_0001025823_Escudo_vectorial_Final.png",
-            "name": "JUVENTUD 25 DE SEPTIEMBRE A"
+            "goals": "1",
+            "logo": "00100_0000001615_sc00737bb2.png",
+            "name": "PUIGREIG, C.E. A"
           },
           "result": "E"
         }
       ],
-      "goalsAgainst": "0",
-      "goalsFor": "0",
-      "lost": 0,
-      "played": 2,
-      "points": "2.00",
+      "goalsAgainst": "4",
+      "goalsFor": "3",
+      "lost": 1,
+      "played": 4,
+      "points": "3.00",
       "position": "11",
       "promotionColor": null,
       "sanction": "0",
       "team": {
-        "clubId": "1528",
-        "logo": "00100_0001025823_Escudo_vectorial_Final.png",
-        "name": "JUVENTUD 25 DE SEPTIEMBRE A",
-        "teamId": "15540572"
+        "clubId": "34785031",
+        "logo": "00100_0000988633_TERRASSAFCnou.png",
+        "name": "FUNDACIÓ TERRASSA FC 1906 A",
+        "teamId": "35378709"
       },
       "won": 0
+    },
+    {
+      "coefficient": "0.7500",
+      "drawn": 0,
+      "form": [
+        {
+          "actaId": "4108907",
+          "away": {
+            "goals": "2",
+            "logo": "00100_0000816160_ripollet_200.png",
+            "name": "RIPOLLET, C.F. A"
+          },
+          "date": "2026-10-03T00:00:00.000Z",
+          "home": {
+            "goals": "1",
+            "logo": "00100_0000971702_Escut_Joanenc.png",
+            "name": "JOANENC, F.C. A"
+          },
+          "result": "P"
+        },
+        {
+          "actaId": "4108899",
+          "away": {
+            "goals": "1",
+            "logo": "00100_0000971702_Escut_Joanenc.png",
+            "name": "JOANENC, F.C. A"
+          },
+          "date": "2026-09-27T00:00:00.000Z",
+          "home": {
+            "goals": "4",
+            "logo": "00100_0001268551_pirinaica.jpg",
+            "name": "PIRINAICA, F.C. A"
+          },
+          "result": "P"
+        },
+        {
+          "actaId": "4108890",
+          "away": {
+            "goals": "3",
+            "logo": "00100_0000485476_NATACIO_TERRASSA,_C.jpeg_copia.png",
+            "name": "NATACIO TERRASSA, C A"
+          },
+          "date": "2026-09-19T00:00:00.000Z",
+          "home": {
+            "goals": "2",
+            "logo": "00100_0000971702_Escut_Joanenc.png",
+            "name": "JOANENC, F.C. A"
+          },
+          "result": "P"
+        }
+      ],
+      "goalsAgainst": "9",
+      "goalsFor": "5",
+      "lost": 3,
+      "played": 4,
+      "points": "3.00",
+      "position": "12",
+      "promotionColor": null,
+      "sanction": "0",
+      "team": {
+        "clubId": "1375",
+        "logo": "00100_0000971702_Escut_Joanenc.png",
+        "name": "JOANENC, F.C. A",
+        "teamId": "35649"
+      },
+      "won": 1
     },
     {
       "coefficient": "0.6667",
@@ -736,8 +862,8 @@
       "lost": 1,
       "played": 3,
       "points": "2.00",
-      "position": "12",
-      "promotionColor": null,
+      "position": "13",
+      "promotionColor": "#e5322d",
       "sanction": "0",
       "team": {
         "clubId": "1029",
@@ -748,8 +874,74 @@
       "won": 0
     },
     {
-      "coefficient": "0.5000",
-      "drawn": 1,
+      "coefficient": "0.6667",
+      "drawn": 2,
+      "form": [
+        {
+          "actaId": "4108912",
+          "away": {
+            "goals": "0",
+            "logo": "00100_0001025823_Escudo_vectorial_Final.png",
+            "name": "JUVENTUD 25 DE SEPTIEMBRE A"
+          },
+          "date": "2026-10-10T00:00:00.000Z",
+          "home": {
+            "goals": "1",
+            "logo": "00100_0000579415_urgell_200x200.png",
+            "name": "LA SEU D'URGELL, F.C. A"
+          },
+          "result": "P"
+        },
+        {
+          "actaId": "4108895",
+          "away": {
+            "goals": "0",
+            "logo": "00100_0001025823_Escudo_vectorial_Final.png",
+            "name": "JUVENTUD 25 DE SEPTIEMBRE A"
+          },
+          "date": "2026-09-26T00:00:00.000Z",
+          "home": {
+            "goals": "0",
+            "logo": "00100_0000988633_TERRASSAFCnou.png",
+            "name": "FUNDACIÓ TERRASSA FC 1906 A"
+          },
+          "result": "E"
+        },
+        {
+          "actaId": "4108886",
+          "away": {
+            "goals": "0",
+            "logo": "00100_0000207364_escut_centenari_cf_balaguer.png",
+            "name": "BALAGUER, C.F. A"
+          },
+          "date": "2026-09-20T00:00:00.000Z",
+          "home": {
+            "goals": "0",
+            "logo": "00100_0001025823_Escudo_vectorial_Final.png",
+            "name": "JUVENTUD 25 DE SEPTIEMBRE A"
+          },
+          "result": "E"
+        }
+      ],
+      "goalsAgainst": "1",
+      "goalsFor": "0",
+      "lost": 1,
+      "played": 3,
+      "points": "2.00",
+      "position": "14",
+      "promotionColor": "#e5322d",
+      "sanction": "0",
+      "team": {
+        "clubId": "1528",
+        "logo": "00100_0001025823_Escudo_vectorial_Final.png",
+        "name": "JUVENTUD 25 DE SEPTIEMBRE A",
+        "teamId": "15540572"
+      },
+      "won": 0
+    },
+    {
+      "coefficient": "0.6667",
+      "drawn": 2,
       "form": [
         {
           "actaId": "4108901",
@@ -782,12 +974,12 @@
           "result": "P"
         }
       ],
-      "goalsAgainst": "4",
-      "goalsFor": "2",
+      "goalsAgainst": "6",
+      "goalsFor": "4",
       "lost": 1,
-      "played": 2,
-      "points": "1.00",
-      "position": "13",
+      "played": 3,
+      "points": "2.00",
+      "position": "15",
       "promotionColor": "#e5322d",
       "sanction": "0",
       "team": {
@@ -799,73 +991,7 @@
       "won": 0
     },
     {
-      "coefficient": "0.3333",
-      "drawn": 1,
-      "form": [
-        {
-          "actaId": "4108904",
-          "away": {
-            "goals": "0",
-            "logo": "00100_0000579415_urgell_200x200.png",
-            "name": "LA SEU D'URGELL, F.C. A"
-          },
-          "date": "2026-10-04T00:00:00.000Z",
-          "home": {
-            "goals": "0",
-            "logo": "00100_0000001615_sc00737bb2.png",
-            "name": "PUIGREIG, C.E. A"
-          },
-          "result": "E"
-        },
-        {
-          "actaId": "4108897",
-          "away": {
-            "goals": "3",
-            "logo": "00100_0001021780_Escut_Gimna__768_stic_Manresa_removebg_preview.png",
-            "name": "GIMNASTIC MANRESA, C.F. A"
-          },
-          "date": "2026-09-26T00:00:00.000Z",
-          "home": {
-            "goals": "0",
-            "logo": "00100_0000579415_urgell_200x200.png",
-            "name": "LA SEU D'URGELL, F.C. A"
-          },
-          "result": "P"
-        },
-        {
-          "actaId": "4108889",
-          "away": {
-            "goals": "1",
-            "logo": "00100_0000579415_urgell_200x200.png",
-            "name": "LA SEU D'URGELL, F.C. A"
-          },
-          "date": "2026-09-19T00:00:00.000Z",
-          "home": {
-            "goals": "2",
-            "logo": "00100_0000661616_molletense_200x200.png",
-            "name": "MOLLETENSE, U.D. A"
-          },
-          "result": "P"
-        }
-      ],
-      "goalsAgainst": "5",
-      "goalsFor": "1",
-      "lost": 2,
-      "played": 3,
-      "points": "1.00",
-      "position": "14",
-      "promotionColor": "#e5322d",
-      "sanction": "0",
-      "team": {
-        "clubId": "4031",
-        "logo": "00100_0000579415_urgell_200x200.png",
-        "name": "LA SEU D'URGELL, F.C. A",
-        "teamId": "34830"
-      },
-      "won": 0
-    },
-    {
-      "coefficient": "0.3333",
+      "coefficient": "0.2500",
       "drawn": 1,
       "form": [
         {
@@ -914,12 +1040,12 @@
           "result": "P"
         }
       ],
-      "goalsAgainst": "6",
+      "goalsAgainst": "7",
       "goalsFor": "0",
-      "lost": 2,
-      "played": 3,
+      "lost": 3,
+      "played": 4,
       "points": "1.00",
-      "position": "15",
+      "position": "16",
       "promotionColor": "#e5322d",
       "sanction": "0",
       "team": {
@@ -927,72 +1053,6 @@
         "logo": "00100_0000104829_ue_balafia.png",
         "name": "BALAFIA, C.F.U.E. A",
         "teamId": "33899"
-      },
-      "won": 0
-    },
-    {
-      "coefficient": "0.0000",
-      "drawn": 0,
-      "form": [
-        {
-          "actaId": "4108907",
-          "away": {
-            "goals": "2",
-            "logo": "00100_0000816160_ripollet_200.png",
-            "name": "RIPOLLET, C.F. A"
-          },
-          "date": "2026-10-03T00:00:00.000Z",
-          "home": {
-            "goals": "1",
-            "logo": "00100_0000971702_Escut_Joanenc.png",
-            "name": "JOANENC, F.C. A"
-          },
-          "result": "P"
-        },
-        {
-          "actaId": "4108899",
-          "away": {
-            "goals": "1",
-            "logo": "00100_0000971702_Escut_Joanenc.png",
-            "name": "JOANENC, F.C. A"
-          },
-          "date": "2026-09-27T00:00:00.000Z",
-          "home": {
-            "goals": "4",
-            "logo": "00100_0001268551_pirinaica.jpg",
-            "name": "PIRINAICA, F.C. A"
-          },
-          "result": "P"
-        },
-        {
-          "actaId": "4108890",
-          "away": {
-            "goals": "3",
-            "logo": "00100_0000485476_NATACIO_TERRASSA,_C.jpeg_copia.png",
-            "name": "NATACIO TERRASSA, C A"
-          },
-          "date": "2026-09-19T00:00:00.000Z",
-          "home": {
-            "goals": "2",
-            "logo": "00100_0000971702_Escut_Joanenc.png",
-            "name": "JOANENC, F.C. A"
-          },
-          "result": "P"
-        }
-      ],
-      "goalsAgainst": "9",
-      "goalsFor": "4",
-      "lost": 3,
-      "played": 3,
-      "points": "0.00",
-      "position": "16",
-      "promotionColor": "#e5322d",
-      "sanction": "0",
-      "team": {
-        "clubId": "1375",
-        "logo": "00100_0000971702_Escut_Joanenc.png",
-        "name": "JOANENC, F.C. A",
-        "teamId": "35649"
       },
       "won": 0
     }
