@@ -452,6 +452,21 @@
       "drawn": 1,
       "form": [
         {
+          "actaId": "4108917",
+          "away": {
+            "goals": "2",
+            "logo": "00100_0000574907_alpicat-200x200.png",
+            "name": "ALPICAT , AT. C A"
+          },
+          "date": "2026-10-10T00:00:00.000Z",
+          "home": {
+            "goals": "2",
+            "logo": "00100_0000259441_CASTELLAR_UE.png",
+            "name": "CASTELLAR, UNIO ESPORTIVA A"
+          },
+          "result": "E"
+        },
+        {
           "actaId": "4108908",
           "away": {
             "goals": "0",
@@ -746,6 +761,21 @@
       "drawn": 0,
       "form": [
         {
+          "actaId": "4108916",
+          "away": {
+            "goals": "1",
+            "logo": "00100_0000971702_Escut_Joanenc.png",
+            "name": "JOANENC, F.C. A"
+          },
+          "date": "2026-10-10T00:00:00.000Z",
+          "home": {
+            "goals": "0",
+            "logo": "00100_0000104829_ue_balafia.png",
+            "name": "BALAFIA, C.F.U.E. A"
+          },
+          "result": "G"
+        },
+        {
           "actaId": "4108907",
           "away": {
             "goals": "2",
@@ -944,6 +974,21 @@
       "drawn": 2,
       "form": [
         {
+          "actaId": "4108917",
+          "away": {
+            "goals": "2",
+            "logo": "00100_0000574907_alpicat-200x200.png",
+            "name": "ALPICAT , AT. C A"
+          },
+          "date": "2026-10-10T00:00:00.000Z",
+          "home": {
+            "goals": "2",
+            "logo": "00100_0000259441_CASTELLAR_UE.png",
+            "name": "CASTELLAR, UNIO ESPORTIVA A"
+          },
+          "result": "E"
+        },
+        {
           "actaId": "4108901",
           "away": {
             "goals": "0",
@@ -994,6 +1039,21 @@
       "coefficient": "0.2500",
       "drawn": 1,
       "form": [
+        {
+          "actaId": "4108916",
+          "away": {
+            "goals": "1",
+            "logo": "00100_0000971702_Escut_Joanenc.png",
+            "name": "JOANENC, F.C. A"
+          },
+          "date": "2026-10-10T00:00:00.000Z",
+          "home": {
+            "goals": "0",
+            "logo": "00100_0000104829_ue_balafia.png",
+            "name": "BALAFIA, C.F.U.E. A"
+          },
+          "result": "P"
+        },
         {
           "actaId": "4108908",
           "away": {
