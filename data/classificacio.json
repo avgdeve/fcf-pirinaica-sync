@@ -5,6 +5,21 @@
       "drawn": 0,
       "form": [
         {
+          "actaId": "4108915",
+          "away": {
+            "goals": "1",
+            "logo": "00100_0000661616_molletense_200x200.png",
+            "name": "MOLLETENSE, U.D. A"
+          },
+          "date": "2026-10-11T00:00:00.000Z",
+          "home": {
+            "goals": "5",
+            "logo": "00100_0000816160_ripollet_200.png",
+            "name": "RIPOLLET, C.F. A"
+          },
+          "result": "G"
+        },
+        {
           "actaId": "4108907",
           "away": {
             "goals": "2",
@@ -67,8 +82,74 @@
       "won": 4
     },
     {
-      "coefficient": "3.0000",
-      "drawn": 0,
+      "coefficient": "2.0000",
+      "drawn": 2,
+      "form": [
+        {
+          "actaId": "4108902",
+          "away": {
+            "goals": "2",
+            "logo": "00100_0000988633_TERRASSAFCnou.png",
+            "name": "FUNDACIÓ TERRASSA FC 1906 A"
+          },
+          "date": "2026-10-04T00:00:00.000Z",
+          "home": {
+            "goals": "2",
+            "logo": "00100_0000207364_escut_centenari_cf_balaguer.png",
+            "name": "BALAGUER, C.F. A"
+          },
+          "result": "E"
+        },
+        {
+          "actaId": "4108894",
+          "away": {
+            "goals": "0",
+            "logo": "00100_0000879078_llefia_200.png",
+            "name": "UNIFICACION LLEFIA,CF. A"
+          },
+          "date": "2026-09-27T00:00:00.000Z",
+          "home": {
+            "goals": "2",
+            "logo": "00100_0000207364_escut_centenari_cf_balaguer.png",
+            "name": "BALAGUER, C.F. A"
+          },
+          "result": "G"
+        },
+        {
+          "actaId": "4108886",
+          "away": {
+            "goals": "0",
+            "logo": "00100_0000207364_escut_centenari_cf_balaguer.png",
+            "name": "BALAGUER, C.F. A"
+          },
+          "date": "2026-09-20T00:00:00.000Z",
+          "home": {
+            "goals": "0",
+            "logo": "00100_0001025823_Escudo_vectorial_Final.png",
+            "name": "JUVENTUD 25 DE SEPTIEMBRE A"
+          },
+          "result": "E"
+        }
+      ],
+      "goalsAgainst": "3",
+      "goalsFor": "6",
+      "lost": 0,
+      "played": 4,
+      "points": "8.00",
+      "position": "2",
+      "promotionColor": "#90caf9",
+      "sanction": "0",
+      "team": {
+        "clubId": "4024",
+        "logo": "00100_0000207364_escut_centenari_cf_balaguer.png",
+        "name": "BALAGUER, C.F. A",
+        "teamId": "18472314"
+      },
+      "won": 2
+    },
+    {
+      "coefficient": "2.3333",
+      "drawn": 1,
       "form": [
         {
           "actaId": "4108906",
@@ -119,10 +200,10 @@
       "goalsAgainst": "1",
       "goalsFor": "7",
       "lost": 0,
-      "played": 2,
-      "points": "6.00",
-      "position": "2",
-      "promotionColor": "#90caf9",
+      "played": 3,
+      "points": "7.00",
+      "position": "3",
+      "promotionColor": "#fac34e",
       "sanction": "0",
       "team": {
         "clubId": "2036",
@@ -133,8 +214,8 @@
       "won": 2
     },
     {
-      "coefficient": "2.0000",
-      "drawn": 0,
+      "coefficient": "1.7500",
+      "drawn": 1,
       "form": [
         {
           "actaId": "4108905",
@@ -185,10 +266,10 @@
       "goalsAgainst": "4",
       "goalsFor": "7",
       "lost": 1,
-      "played": 3,
-      "points": "6.00",
-      "position": "3",
-      "promotionColor": "#fac34e",
+      "played": 4,
+      "points": "7.00",
+      "position": "4",
+      "promotionColor": null,
       "sanction": "0",
       "team": {
         "clubId": "50599707",
@@ -199,7 +280,7 @@
       "won": 2
     },
     {
-      "coefficient": "3.0000",
+      "coefficient": "2.0000",
       "drawn": 0,
       "form": [
         {
@@ -233,12 +314,12 @@
           "result": "G"
         }
       ],
-      "goalsAgainst": "4",
-      "goalsFor": "6",
-      "lost": 0,
-      "played": 2,
+      "goalsAgainst": "6",
+      "goalsFor": "7",
+      "lost": 1,
+      "played": 3,
       "points": "6.00",
-      "position": "4",
+      "position": "5",
       "promotionColor": null,
       "sanction": "0",
       "team": {
@@ -304,7 +385,7 @@
       "lost": 1,
       "played": 3,
       "points": "6.00",
-      "position": "5",
+      "position": "6",
       "promotionColor": null,
       "sanction": "0",
       "team": {
@@ -385,7 +466,7 @@
       "lost": 2,
       "played": 4,
       "points": "6.00",
-      "position": "6",
+      "position": "7",
       "promotionColor": null,
       "sanction": "0",
       "team": {
@@ -395,72 +476,6 @@
         "teamId": "31800364"
       },
       "won": 2
-    },
-    {
-      "coefficient": "1.6667",
-      "drawn": 2,
-      "form": [
-        {
-          "actaId": "4108902",
-          "away": {
-            "goals": "2",
-            "logo": "00100_0000988633_TERRASSAFCnou.png",
-            "name": "FUNDACIÓ TERRASSA FC 1906 A"
-          },
-          "date": "2026-10-04T00:00:00.000Z",
-          "home": {
-            "goals": "2",
-            "logo": "00100_0000207364_escut_centenari_cf_balaguer.png",
-            "name": "BALAGUER, C.F. A"
-          },
-          "result": "E"
-        },
-        {
-          "actaId": "4108894",
-          "away": {
-            "goals": "0",
-            "logo": "00100_0000879078_llefia_200.png",
-            "name": "UNIFICACION LLEFIA,CF. A"
-          },
-          "date": "2026-09-27T00:00:00.000Z",
-          "home": {
-            "goals": "2",
-            "logo": "00100_0000207364_escut_centenari_cf_balaguer.png",
-            "name": "BALAGUER, C.F. A"
-          },
-          "result": "G"
-        },
-        {
-          "actaId": "4108886",
-          "away": {
-            "goals": "0",
-            "logo": "00100_0000207364_escut_centenari_cf_balaguer.png",
-            "name": "BALAGUER, C.F. A"
-          },
-          "date": "2026-09-20T00:00:00.000Z",
-          "home": {
-            "goals": "0",
-            "logo": "00100_0001025823_Escudo_vectorial_Final.png",
-            "name": "JUVENTUD 25 DE SEPTIEMBRE A"
-          },
-          "result": "E"
-        }
-      ],
-      "goalsAgainst": "2",
-      "goalsFor": "4",
-      "lost": 0,
-      "played": 3,
-      "points": "5.00",
-      "position": "7",
-      "promotionColor": null,
-      "sanction": "0",
-      "team": {
-        "clubId": "4024",
-        "logo": "00100_0000207364_escut_centenari_cf_balaguer.png",
-        "name": "BALAGUER, C.F. A",
-        "teamId": "18472314"
-      },
-      "won": 1
     },
     {
       "coefficient": "1.2500",
@@ -871,6 +886,21 @@
       "coefficient": "1.0000",
       "drawn": 0,
       "form": [
+        {
+          "actaId": "4108915",
+          "away": {
+            "goals": "1",
+            "logo": "00100_0000661616_molletense_200x200.png",
+            "name": "MOLLETENSE, U.D. A"
+          },
+          "date": "2026-10-11T00:00:00.000Z",
+          "home": {
+            "goals": "5",
+            "logo": "00100_0000816160_ripollet_200.png",
+            "name": "RIPOLLET, C.F. A"
+          },
+          "result": "P"
+        },
         {
           "actaId": "4108906",
           "away": {
