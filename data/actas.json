@@ -1733,5 +1733,645 @@
       }
     ],
     "temporada_nombre": "2026-2027"
+  },
+  "4108914": {
+    "CAMPO": "CAMP DE FUTBOL MPAL. MION-PUIGBERENGUER",
+    "CERRADA": "1",
+    "CODACTA": "4108914",
+    "CODDELEGADO_CAMPO": "55325746",
+    "CODDELEGADO_CASA": "48095831",
+    "CODDELEGADO_FUERA": "51060025",
+    "CODEQUIPO_CASA": "33048",
+    "CODEQUIPO_FUERA": "50600437",
+    "CODGRUPO": "58161858",
+    "CODIGO_CAMPO": "496",
+    "CODTEMPORADA": "22",
+    "COMIENZO1": "2026-10-11T18:00:00.000Z",
+    "ESTADO": "1",
+    "FECHA": "2026-10-11T00:00:00.000Z",
+    "GOLES_CASA": "0",
+    "GOLES_FUERA": "1",
+    "JORNADA": "4",
+    "PENALTIS_CASA": null,
+    "PENALTIS_FUERA": null,
+    "arbitros": [
+      {
+        "CODARBITRO": "3169450",
+        "CODTIPO_ARBITRO": "1",
+        "ORDEN": "0",
+        "TIPO_ARBITRO": "1",
+        "codigo_delegacion": "5",
+        "delegacion": "Bages",
+        "nombre_arbitro": "SANTOS GOMEZ, JOEL",
+        "rol": "Principal"
+      },
+      {
+        "CODARBITRO": "3105113",
+        "CODTIPO_ARBITRO": "2",
+        "ORDEN": "1",
+        "TIPO_ARBITRO": "2",
+        "codigo_delegacion": "4",
+        "delegacion": "Anoia",
+        "nombre_arbitro": "RODRIGUEZ SOLIS, EDGAR",
+        "rol": "Assistent 1"
+      },
+      {
+        "CODARBITRO": "3379250",
+        "CODTIPO_ARBITRO": "2",
+        "ORDEN": "2",
+        "TIPO_ARBITRO": "2",
+        "codigo_delegacion": "5",
+        "delegacion": "Bages",
+        "nombre_arbitro": "PLAZA RODRIGUEZ, MARTI",
+        "rol": "Assistent 2"
+      }
+    ],
+    "equipo_local": {
+      "CODCLUB": "2036",
+      "CODEQUIPO": "33048",
+      "NOMBRE_EQUIPO": "PIRINAICA, F.C.",
+      "escudo": "00100_0001268551_pirinaica.jpg"
+    },
+    "equipo_visitante": {
+      "CODCLUB": "50599707",
+      "CODEQUIPO": "50600437",
+      "NOMBRE_EQUIPO": "GIMNASTIC MANRESA, C.F.",
+      "escudo": "00100_0001021780_Escut_Gimna__768_stic_Manresa_removebg_preview.png"
+    },
+    "goles_equipo_local": [],
+    "goles_equipo_visitante": [
+      {
+        "dorsal": "22",
+        "id_jugador": "15190421",
+        "minuto": "87",
+        "nombre_jugador": "QUESADA LEAL, IZAN",
+        "tipo_gol": "100"
+      }
+    ],
+    "jugadores_equipo_local": [
+      {
+        "capitan": "0",
+        "dorsal": "13",
+        "id": "646458",
+        "nombre": "DEL RIO ABELLÁN, DANIEL",
+        "portero": 1,
+        "titular": "1"
+      },
+      {
+        "capitan": "0",
+        "dorsal": "7",
+        "id": "688336",
+        "nombre": "ALSINA MORALEJA, ROGER",
+        "portero": 0,
+        "titular": "0"
+      },
+      {
+        "capitan": "0",
+        "dorsal": "15",
+        "id": "703042",
+        "nombre": "PALOMO RAYA, RUBEN",
+        "portero": 0,
+        "titular": "0"
+      },
+      {
+        "capitan": "0",
+        "dorsal": "11",
+        "id": "733235",
+        "nombre": "RODRIGUEZ ARNAUS, BIEL",
+        "portero": 0,
+        "titular": "1"
+      },
+      {
+        "capitan": "0",
+        "dorsal": "24",
+        "id": "745627",
+        "nombre": "MARTINEZ CONILL, ALEIX",
+        "portero": 0,
+        "titular": "1"
+      },
+      {
+        "capitan": "0",
+        "dorsal": "9",
+        "id": "755592",
+        "nombre": "PIÑOT SENA, GERARD",
+        "portero": 0,
+        "titular": "1"
+      },
+      {
+        "capitan": "0",
+        "dorsal": "23",
+        "id": "756484",
+        "nombre": "ROMERO AMELA, ORIOL",
+        "portero": 0,
+        "titular": "1"
+      },
+      {
+        "capitan": "1",
+        "dorsal": "5",
+        "id": "762682",
+        "nombre": "CABEZAS JIMENEZ, DAVID",
+        "portero": 0,
+        "titular": "1"
+      },
+      {
+        "capitan": "0",
+        "dorsal": "4",
+        "id": "777173",
+        "nombre": "NOCETE PLADEVALL, MIQUEL",
+        "portero": 0,
+        "titular": "1"
+      },
+      {
+        "capitan": "0",
+        "dorsal": "8",
+        "id": "15165302",
+        "nombre": "PUENTES CODINA, ARNAU",
+        "portero": 0,
+        "titular": "1"
+      },
+      {
+        "capitan": "0",
+        "dorsal": "10",
+        "id": "15476177",
+        "nombre": "LOPEZ TORRES, ERIC",
+        "portero": 0,
+        "titular": "1"
+      },
+      {
+        "capitan": "0",
+        "dorsal": "2",
+        "id": "18482177",
+        "nombre": "DE VERDONCES GARCIA, ALBERT",
+        "portero": 0,
+        "titular": "1"
+      },
+      {
+        "capitan": "0",
+        "dorsal": "21",
+        "id": "18494743",
+        "nombre": "NAVARRO PEREZ, IKER",
+        "portero": 0,
+        "titular": "0"
+      },
+      {
+        "capitan": "0",
+        "dorsal": "91",
+        "id": "18547417",
+        "nombre": "DJIBO GIL, TAHIROU",
+        "portero": 0,
+        "titular": "1"
+      },
+      {
+        "capitan": "0",
+        "dorsal": "1",
+        "id": "23696657",
+        "nombre": "ALVAREZ CASANOVAS, HECTOR",
+        "portero": 1,
+        "titular": "0"
+      },
+      {
+        "capitan": "0",
+        "dorsal": "30",
+        "id": "25140668",
+        "nombre": "CHLIOUET AHARBI, AYOUB",
+        "portero": 0,
+        "titular": "0"
+      },
+      {
+        "capitan": "0",
+        "dorsal": "26",
+        "id": "35587464",
+        "nombre": "BARRIS-ESPARBÉ VILANOVA, IGNASI",
+        "portero": 0,
+        "titular": "0"
+      },
+      {
+        "capitan": "0",
+        "dorsal": "19",
+        "id": "40715838",
+        "nombre": "PONCE CURRAS, CRISTIAN",
+        "portero": 0,
+        "titular": "0"
+      },
+      {
+        "capitan": "0",
+        "dorsal": "14",
+        "id": "53686460",
+        "nombre": "KWAO, LEONARD KOFI LORLORNYO",
+        "portero": 0,
+        "titular": "0"
+      },
+      {
+        "capitan": "0",
+        "dorsal": "25",
+        "id": "54029401",
+        "nombre": "CHAVEZ LOPEZ, JEFFREY MISAEL",
+        "portero": 0,
+        "titular": "0"
+      }
+    ],
+    "jugadores_equipo_visitante": [
+      {
+        "capitan": "0",
+        "dorsal": "14",
+        "id": "654362",
+        "nombre": "BELLIDO PUJOL, MARCEL",
+        "portero": 0,
+        "titular": "1"
+      },
+      {
+        "capitan": "0",
+        "dorsal": "18",
+        "id": "686061",
+        "nombre": "PADILLA RUBIO, MARC",
+        "portero": 0,
+        "titular": "0"
+      },
+      {
+        "capitan": "0",
+        "dorsal": "4",
+        "id": "703807",
+        "nombre": "PRADAS ALGABA, NIL",
+        "portero": 0,
+        "titular": "1"
+      },
+      {
+        "capitan": "0",
+        "dorsal": "19",
+        "id": "723249",
+        "nombre": "DIAKITE TANOU, MALICK",
+        "portero": 0,
+        "titular": "1"
+      },
+      {
+        "capitan": "0",
+        "dorsal": "15",
+        "id": "725522",
+        "nombre": "CUELLO DIAZ, MARC",
+        "portero": 0,
+        "titular": "0"
+      },
+      {
+        "capitan": "0",
+        "dorsal": "11",
+        "id": "728157",
+        "nombre": "PÉREZ FONTAN, RAFEL",
+        "portero": 0,
+        "titular": "1"
+      },
+      {
+        "capitan": "0",
+        "dorsal": "6",
+        "id": "731199",
+        "nombre": "GRIFELL FABREGAS, MARC",
+        "portero": 0,
+        "titular": "0"
+      },
+      {
+        "capitan": "0",
+        "dorsal": "10",
+        "id": "783570",
+        "nombre": "GUERRERO VINASCO, FELIPE",
+        "portero": 0,
+        "titular": "1"
+      },
+      {
+        "capitan": "0",
+        "dorsal": "2",
+        "id": "15042936",
+        "nombre": "PRADO DONATE, ADRIÁ",
+        "portero": 0,
+        "titular": "0"
+      },
+      {
+        "capitan": "0",
+        "dorsal": "17",
+        "id": "15190263",
+        "nombre": "RODRÍGUEZ GARCÍA, HUGO",
+        "portero": 0,
+        "titular": "0"
+      },
+      {
+        "capitan": "0",
+        "dorsal": "22",
+        "id": "15190421",
+        "nombre": "QUESADA LEAL, IZAN",
+        "portero": 0,
+        "titular": "0"
+      },
+      {
+        "capitan": "0",
+        "dorsal": "5",
+        "id": "15586615",
+        "nombre": "QUESADA LEAL, ONAN",
+        "portero": 0,
+        "titular": "0"
+      },
+      {
+        "capitan": "0",
+        "dorsal": "1",
+        "id": "18625969",
+        "nombre": "TAULATS CANUDAS, SERGI",
+        "portero": 1,
+        "titular": "1"
+      },
+      {
+        "capitan": "1",
+        "dorsal": "3",
+        "id": "18778088",
+        "nombre": "FORNELL PISA, POL",
+        "portero": 0,
+        "titular": "1"
+      },
+      {
+        "capitan": "0",
+        "dorsal": "20",
+        "id": "23968785",
+        "nombre": "YAHYA RABIE, AYOUB",
+        "portero": 0,
+        "titular": "1"
+      },
+      {
+        "capitan": "0",
+        "dorsal": "9",
+        "id": "37992506",
+        "nombre": "MORAL ROGER, ELOI",
+        "portero": 0,
+        "titular": "1"
+      },
+      {
+        "capitan": "0",
+        "dorsal": "13",
+        "id": "40612426",
+        "nombre": "CASALS FERNANDEZ, ALEIX",
+        "portero": 1,
+        "titular": "0"
+      },
+      {
+        "capitan": "0",
+        "dorsal": "23",
+        "id": "46801108",
+        "nombre": "BOJANG, ANSUMANA",
+        "portero": 0,
+        "titular": "1"
+      },
+      {
+        "capitan": "0",
+        "dorsal": "21",
+        "id": "47732800",
+        "nombre": "OSUNA SANCHEZ, DANIEL",
+        "portero": 0,
+        "titular": "0"
+      },
+      {
+        "capitan": "0",
+        "dorsal": "24",
+        "id": "51183969",
+        "nombre": "GIRARD, ETHAN",
+        "portero": 0,
+        "titular": "1"
+      }
+    ],
+    "nombre_competicion": "PRIMERA CATALANA",
+    "nombre_grupo": "GRUP 2",
+    "penaltis_equipo_local": [],
+    "penaltis_equipo_visitante": [],
+    "sustituciones_equipo_local": [
+      {
+        "entradorsal": "15",
+        "id_jugador_entra": "703042",
+        "id_jugador_sale": "762682",
+        "minuto": "46",
+        "nombre_jugador_entra": "PALOMO RAYA, RUBEN",
+        "nombre_jugador_sale": "CABEZAS JIMENEZ, DAVID",
+        "saledorsal": "5"
+      },
+      {
+        "entradorsal": "21",
+        "id_jugador_entra": "18494743",
+        "id_jugador_sale": "733235",
+        "minuto": "63",
+        "nombre_jugador_entra": "NAVARRO PEREZ, IKER",
+        "nombre_jugador_sale": "RODRIGUEZ ARNAUS, BIEL",
+        "saledorsal": "11"
+      },
+      {
+        "entradorsal": "7",
+        "id_jugador_entra": "688336",
+        "id_jugador_sale": "15476177",
+        "minuto": "71",
+        "nombre_jugador_entra": "ALSINA MORALEJA, ROGER",
+        "nombre_jugador_sale": "LOPEZ TORRES, ERIC",
+        "saledorsal": "10"
+      },
+      {
+        "entradorsal": "19",
+        "id_jugador_entra": "40715838",
+        "id_jugador_sale": "15165302",
+        "minuto": "71",
+        "nombre_jugador_entra": "PONCE CURRAS, CRISTIAN",
+        "nombre_jugador_sale": "PUENTES CODINA, ARNAU",
+        "saledorsal": "8"
+      },
+      {
+        "entradorsal": "14",
+        "id_jugador_entra": "53686460",
+        "id_jugador_sale": "755592",
+        "minuto": "82",
+        "nombre_jugador_entra": "KWAO, LEONARD KOFI LORLORNYO",
+        "nombre_jugador_sale": "PIÑOT SENA, GERARD",
+        "saledorsal": "9"
+      },
+      {
+        "entradorsal": "30",
+        "id_jugador_entra": "25140668",
+        "id_jugador_sale": "756484",
+        "minuto": "85",
+        "nombre_jugador_entra": "CHLIOUET AHARBI, AYOUB",
+        "nombre_jugador_sale": "ROMERO AMELA, ORIOL",
+        "saledorsal": "23"
+      }
+    ],
+    "sustituciones_equipo_visitante": [
+      {
+        "entradorsal": "2",
+        "id_jugador_entra": "15042936",
+        "id_jugador_sale": "51183969",
+        "minuto": "32",
+        "nombre_jugador_entra": "PRADO DONATE, ADRIÁ",
+        "nombre_jugador_sale": "GIRARD, ETHAN",
+        "saledorsal": "24"
+      },
+      {
+        "entradorsal": "6",
+        "id_jugador_entra": "731199",
+        "id_jugador_sale": "723249",
+        "minuto": "61",
+        "nombre_jugador_entra": "GRIFELL FABREGAS, MARC",
+        "nombre_jugador_sale": "DIAKITE TANOU, MALICK",
+        "saledorsal": "19"
+      },
+      {
+        "entradorsal": "17",
+        "id_jugador_entra": "15190263",
+        "id_jugador_sale": "783570",
+        "minuto": "61",
+        "nombre_jugador_entra": "RODRÍGUEZ GARCÍA, HUGO",
+        "nombre_jugador_sale": "GUERRERO VINASCO, FELIPE",
+        "saledorsal": "10"
+      },
+      {
+        "entradorsal": "18",
+        "id_jugador_entra": "686061",
+        "id_jugador_sale": "728157",
+        "minuto": "71",
+        "nombre_jugador_entra": "PADILLA RUBIO, MARC",
+        "nombre_jugador_sale": "PÉREZ FONTAN, RAFEL",
+        "saledorsal": "11"
+      },
+      {
+        "entradorsal": "15",
+        "id_jugador_entra": "725522",
+        "id_jugador_sale": "654362",
+        "minuto": "71",
+        "nombre_jugador_entra": "CUELLO DIAZ, MARC",
+        "nombre_jugador_sale": "BELLIDO PUJOL, MARCEL",
+        "saledorsal": "14"
+      },
+      {
+        "entradorsal": "22",
+        "id_jugador_entra": "15190421",
+        "id_jugador_sale": "37992506",
+        "minuto": "85",
+        "nombre_jugador_entra": "QUESADA LEAL, IZAN",
+        "nombre_jugador_sale": "MORAL ROGER, ELOI",
+        "saledorsal": "9"
+      },
+      {
+        "entradorsal": "5",
+        "id_jugador_entra": "15586615",
+        "id_jugador_sale": "46801108",
+        "minuto": "85",
+        "nombre_jugador_entra": "QUESADA LEAL, ONAN",
+        "nombre_jugador_sale": "BOJANG, ANSUMANA",
+        "saledorsal": "23"
+      }
+    ],
+    "tarjetas_equipo_local": [
+      {
+        "id_jugador": "733235",
+        "minuto": "26",
+        "segunda_amarilla": null,
+        "tipo_tarjeta": "100"
+      },
+      {
+        "id_jugador": "756484",
+        "minuto": "67",
+        "segunda_amarilla": null,
+        "tipo_tarjeta": "100"
+      },
+      {
+        "id_jugador": "15165302",
+        "minuto": "38",
+        "segunda_amarilla": null,
+        "tipo_tarjeta": "100"
+      },
+      {
+        "id_jugador": "18482177",
+        "minuto": "45",
+        "segunda_amarilla": null,
+        "tipo_tarjeta": "100"
+      },
+      {
+        "id_jugador": "48095831",
+        "minuto": "45",
+        "segunda_amarilla": null,
+        "tipo_tarjeta": "100"
+      }
+    ],
+    "tarjetas_equipo_visitante": [
+      {
+        "id_jugador": "703807",
+        "minuto": "45",
+        "segunda_amarilla": null,
+        "tipo_tarjeta": "100"
+      },
+      {
+        "id_jugador": "725522",
+        "minuto": "78",
+        "segunda_amarilla": null,
+        "tipo_tarjeta": "100"
+      },
+      {
+        "id_jugador": "731199",
+        "minuto": "70",
+        "segunda_amarilla": null,
+        "tipo_tarjeta": "100"
+      }
+    ],
+    "tecnicos_equipo_local": [
+      {
+        "id": "55325746",
+        "nombre": "MARCÈ APARICIO, ROC",
+        "tipo_nombre": "DCS"
+      },
+      {
+        "id": "30753134",
+        "nombre": "DÍAZ GASCÓN, VICENTE",
+        "tipo_licencia": "40492317",
+        "tipo_nombre": "ET"
+      },
+      {
+        "id": "48095831",
+        "nombre": "MENDEZ REAL, PASCUAL",
+        "tipo_licencia": "19",
+        "tipo_nombre": "D"
+      },
+      {
+        "id": "55325746",
+        "nombre": "MARCÈ APARICIO, ROC",
+        "tipo_licencia": "19",
+        "tipo_nombre": "D"
+      },
+      {
+        "id": "58482670",
+        "nombre": "FERNANDEZ CANTON, BORJA",
+        "tipo_licencia": "31",
+        "tipo_nombre": "PF"
+      },
+      {
+        "id": "60156836",
+        "nombre": "CIOVICA, DENIS STEFAN",
+        "tipo_licencia": "15",
+        "tipo_nombre": "AU"
+      },
+      {
+        "id": "60194557",
+        "nombre": "GARCÍA PEREIRO, SERGIO",
+        "tipo_licencia": "7",
+        "tipo_nombre": "EM"
+      }
+    ],
+    "tecnicos_equipo_visitante": [
+      {
+        "id": "25408993",
+        "nombre": "HONTANGAS ROSELL, ORIOL",
+        "tipo_licencia": "40492317",
+        "tipo_nombre": "ET"
+      },
+      {
+        "id": "46498363",
+        "nombre": "MARTOS TORRECILLAS, XAVIER",
+        "tipo_licencia": "40492318",
+        "tipo_nombre": "EA"
+      },
+      {
+        "id": "51060025",
+        "nombre": "ALGUACIL AGUILERA, JAVIER",
+        "tipo_licencia": "19",
+        "tipo_nombre": "D"
+      }
+    ],
+    "temporada_nombre": "2026-2027"
   }
 }

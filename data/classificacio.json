@@ -82,9 +82,105 @@
       "won": 4
     },
     {
+      "coefficient": "2.2500",
+      "drawn": 0,
+      "form": [
+        {
+          "actaId": "4108914",
+          "away": {
+            "goals": "1",
+            "logo": "00100_0001021780_Escut_Gimna__768_stic_Manresa_removebg_preview.png",
+            "name": "GIMNASTIC MANRESA, C.F. A"
+          },
+          "date": "2026-10-11T00:00:00.000Z",
+          "home": {
+            "goals": "0",
+            "logo": "00100_0001268551_pirinaica.jpg",
+            "name": "PIRINAICA, F.C. A"
+          },
+          "result": "G"
+        },
+        {
+          "actaId": "4108905",
+          "away": {
+            "goals": "1",
+            "logo": "00100_0000485476_NATACIO_TERRASSA,_C.jpeg_copia.png",
+            "name": "NATACIO TERRASSA, C A"
+          },
+          "date": "2026-10-03T00:00:00.000Z",
+          "home": {
+            "goals": "2",
+            "logo": "00100_0001021780_Escut_Gimna__768_stic_Manresa_removebg_preview.png",
+            "name": "GIMNASTIC MANRESA, C.F. A"
+          },
+          "result": "G"
+        },
+        {
+          "actaId": "4108897",
+          "away": {
+            "goals": "3",
+            "logo": "00100_0001021780_Escut_Gimna__768_stic_Manresa_removebg_preview.png",
+            "name": "GIMNASTIC MANRESA, C.F. A"
+          },
+          "date": "2026-09-26T00:00:00.000Z",
+          "home": {
+            "goals": "0",
+            "logo": "00100_0000579415_urgell_200x200.png",
+            "name": "LA SEU D'URGELL, F.C. A"
+          },
+          "result": "G"
+        },
+        {
+          "actaId": "4108888",
+          "away": {
+            "goals": "3",
+            "logo": "00100_0000822231_igualada_200.png",
+            "name": "IGUALADA, C.F. A"
+          },
+          "date": "2026-09-19T00:00:00.000Z",
+          "home": {
+            "goals": "2",
+            "logo": "00100_0001021780_Escut_Gimna__768_stic_Manresa_removebg_preview.png",
+            "name": "GIMNASTIC MANRESA, C.F. A"
+          },
+          "result": "P"
+        }
+      ],
+      "goalsAgainst": "4",
+      "goalsFor": "8",
+      "lost": 1,
+      "played": 4,
+      "points": "9.00",
+      "position": "2",
+      "promotionColor": "#90caf9",
+      "sanction": "0",
+      "team": {
+        "clubId": "50599707",
+        "logo": "00100_0001021780_Escut_Gimna__768_stic_Manresa_removebg_preview.png",
+        "name": "GIMNASTIC MANRESA, C.F. A",
+        "teamId": "50600437"
+      },
+      "won": 3
+    },
+    {
       "coefficient": "2.0000",
       "drawn": 2,
       "form": [
+        {
+          "actaId": "4108911",
+          "away": {
+            "goals": "2",
+            "logo": "00100_0000207364_escut_centenari_cf_balaguer.png",
+            "name": "BALAGUER, C.F. A"
+          },
+          "date": "2026-10-11T00:00:00.000Z",
+          "home": {
+            "goals": "1",
+            "logo": "00100_0000822231_igualada_200.png",
+            "name": "IGUALADA, C.F. A"
+          },
+          "result": "G"
+        },
         {
           "actaId": "4108902",
           "away": {
@@ -136,8 +232,8 @@
       "lost": 0,
       "played": 4,
       "points": "8.00",
-      "position": "2",
-      "promotionColor": "#90caf9",
+      "position": "3",
+      "promotionColor": "#fac34e",
       "sanction": "0",
       "team": {
         "clubId": "4024",
@@ -148,9 +244,24 @@
       "won": 2
     },
     {
-      "coefficient": "2.3333",
-      "drawn": 1,
+      "coefficient": "2.0000",
+      "drawn": 0,
       "form": [
+        {
+          "actaId": "4108914",
+          "away": {
+            "goals": "1",
+            "logo": "00100_0001021780_Escut_Gimna__768_stic_Manresa_removebg_preview.png",
+            "name": "GIMNASTIC MANRESA, C.F. A"
+          },
+          "date": "2026-10-11T00:00:00.000Z",
+          "home": {
+            "goals": "0",
+            "logo": "00100_0001268551_pirinaica.jpg",
+            "name": "PIRINAICA, F.C. A"
+          },
+          "result": "P"
+        },
         {
           "actaId": "4108906",
           "away": {
@@ -197,13 +308,13 @@
           "result": "G"
         }
       ],
-      "goalsAgainst": "1",
+      "goalsAgainst": "2",
       "goalsFor": "7",
-      "lost": 0,
+      "lost": 1,
       "played": 3,
-      "points": "7.00",
-      "position": "3",
-      "promotionColor": "#fac34e",
+      "points": "6.00",
+      "position": "4",
+      "promotionColor": null,
       "sanction": "0",
       "team": {
         "clubId": "2036",
@@ -214,75 +325,24 @@
       "won": 2
     },
     {
-      "coefficient": "1.7500",
-      "drawn": 1,
-      "form": [
-        {
-          "actaId": "4108905",
-          "away": {
-            "goals": "1",
-            "logo": "00100_0000485476_NATACIO_TERRASSA,_C.jpeg_copia.png",
-            "name": "NATACIO TERRASSA, C A"
-          },
-          "date": "2026-10-03T00:00:00.000Z",
-          "home": {
-            "goals": "2",
-            "logo": "00100_0001021780_Escut_Gimna__768_stic_Manresa_removebg_preview.png",
-            "name": "GIMNASTIC MANRESA, C.F. A"
-          },
-          "result": "G"
-        },
-        {
-          "actaId": "4108897",
-          "away": {
-            "goals": "3",
-            "logo": "00100_0001021780_Escut_Gimna__768_stic_Manresa_removebg_preview.png",
-            "name": "GIMNASTIC MANRESA, C.F. A"
-          },
-          "date": "2026-09-26T00:00:00.000Z",
-          "home": {
-            "goals": "0",
-            "logo": "00100_0000579415_urgell_200x200.png",
-            "name": "LA SEU D'URGELL, F.C. A"
-          },
-          "result": "G"
-        },
-        {
-          "actaId": "4108888",
-          "away": {
-            "goals": "3",
-            "logo": "00100_0000822231_igualada_200.png",
-            "name": "IGUALADA, C.F. A"
-          },
-          "date": "2026-09-19T00:00:00.000Z",
-          "home": {
-            "goals": "2",
-            "logo": "00100_0001021780_Escut_Gimna__768_stic_Manresa_removebg_preview.png",
-            "name": "GIMNASTIC MANRESA, C.F. A"
-          },
-          "result": "P"
-        }
-      ],
-      "goalsAgainst": "4",
-      "goalsFor": "7",
-      "lost": 1,
-      "played": 4,
-      "points": "7.00",
-      "position": "4",
-      "promotionColor": null,
-      "sanction": "0",
-      "team": {
-        "clubId": "50599707",
-        "logo": "00100_0001021780_Escut_Gimna__768_stic_Manresa_removebg_preview.png",
-        "name": "GIMNASTIC MANRESA, C.F. A",
-        "teamId": "50600437"
-      },
-      "won": 2
-    },
-    {
       "coefficient": "2.0000",
       "drawn": 0,
       "form": [
+        {
+          "actaId": "4108911",
+          "away": {
+            "goals": "2",
+            "logo": "00100_0000207364_escut_centenari_cf_balaguer.png",
+            "name": "BALAGUER, C.F. A"
+          },
+          "date": "2026-10-11T00:00:00.000Z",
+          "home": {
+            "goals": "1",
+            "logo": "00100_0000822231_igualada_200.png",
+            "name": "IGUALADA, C.F. A"
+          },
+          "result": "P"
+        },
         {
           "actaId": "4108896",
           "away": {
