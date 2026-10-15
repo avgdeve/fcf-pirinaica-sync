@@ -263,21 +263,6 @@
           "result": "P"
         },
         {
-          "actaId": "4108906",
-          "away": {
-            "goals": null,
-            "logo": "00100_0001268551_pirinaica.jpg",
-            "name": "PIRINAICA, F.C. A"
-          },
-          "date": "2026-10-03T00:00:00.000Z",
-          "home": {
-            "goals": null,
-            "logo": "00100_0000661616_molletense_200x200.png",
-            "name": "MOLLETENSE, U.D. A"
-          },
-          "result": "E"
-        },
-        {
           "actaId": "4108899",
           "away": {
             "goals": "1",
@@ -960,21 +945,6 @@
             "name": "RIPOLLET, C.F. A"
           },
           "result": "P"
-        },
-        {
-          "actaId": "4108906",
-          "away": {
-            "goals": null,
-            "logo": "00100_0001268551_pirinaica.jpg",
-            "name": "PIRINAICA, F.C. A"
-          },
-          "date": "2026-10-03T00:00:00.000Z",
-          "home": {
-            "goals": null,
-            "logo": "00100_0000661616_molletense_200x200.png",
-            "name": "MOLLETENSE, U.D. A"
-          },
-          "result": "E"
         },
         {
           "actaId": "4108898",
