@@ -197,6 +197,21 @@
       "drawn": 0,
       "form": [
         {
+          "actaId": "4108918",
+          "away": {
+            "goals": "2",
+            "logo": "00100_0000822231_igualada_200.png",
+            "name": "IGUALADA, C.F. A"
+          },
+          "date": "2026-10-17T00:00:00.000Z",
+          "home": {
+            "goals": "0",
+            "logo": "00100_0000988633_TERRASSAFCnou.png",
+            "name": "FUNDACIÓ TERRASSA FC 1906 A"
+          },
+          "result": "G"
+        },
+        {
           "actaId": "4108911",
           "away": {
             "goals": "2",
@@ -895,6 +910,21 @@
       "coefficient": "0.6000",
       "drawn": 3,
       "form": [
+        {
+          "actaId": "4108918",
+          "away": {
+            "goals": "2",
+            "logo": "00100_0000822231_igualada_200.png",
+            "name": "IGUALADA, C.F. A"
+          },
+          "date": "2026-10-17T00:00:00.000Z",
+          "home": {
+            "goals": "0",
+            "logo": "00100_0000988633_TERRASSAFCnou.png",
+            "name": "FUNDACIÓ TERRASSA FC 1906 A"
+          },
+          "result": "P"
+        },
         {
           "actaId": "4108910",
           "away": {
