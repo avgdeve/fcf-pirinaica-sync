@@ -370,83 +370,83 @@
       "won": 2
     },
     {
-      "coefficient": "1.6000",
-      "drawn": 2,
+      "coefficient": "1.7500",
+      "drawn": 1,
       "form": [
         {
-          "actaId": "4108913",
+          "actaId": "4108921",
           "away": {
-            "goals": "2",
-            "logo": "00100_0000001615_sc00737bb2.png",
-            "name": "PUIGREIG, C.E. A"
+            "goals": "1",
+            "logo": "00100_0001268551_pirinaica.jpg",
+            "name": "PIRINAICA, F.C. A"
           },
-          "date": "2026-10-11T00:00:00.000Z",
+          "date": "2026-10-18T00:00:00.000Z",
           "home": {
             "goals": "1",
-            "logo": "00100_0000485476_NATACIO_TERRASSA,_C.jpeg_copia.png",
-            "name": "NATACIO TERRASSA, C A"
-          },
-          "result": "G"
-        },
-        {
-          "actaId": "4108904",
-          "away": {
-            "goals": "0",
-            "logo": "00100_0000579415_urgell_200x200.png",
-            "name": "LA SEU D'URGELL, F.C. A"
-          },
-          "date": "2026-10-04T00:00:00.000Z",
-          "home": {
-            "goals": "0",
             "logo": "00100_0000001615_sc00737bb2.png",
             "name": "PUIGREIG, C.E. A"
           },
           "result": "E"
         },
         {
-          "actaId": "4108896",
+          "actaId": "4108914",
           "away": {
-            "goals": "2",
-            "logo": "00100_0000001615_sc00737bb2.png",
-            "name": "PUIGREIG, C.E. A"
+            "goals": "1",
+            "logo": "00100_0001021780_Escut_Gimna__768_stic_Manresa_removebg_preview.png",
+            "name": "GIMNASTIC MANRESA, C.F. A"
           },
-          "date": "2026-09-27T00:00:00.000Z",
+          "date": "2026-10-11T00:00:00.000Z",
           "home": {
-            "goals": "3",
-            "logo": "00100_0000822231_igualada_200.png",
-            "name": "IGUALADA, C.F. A"
+            "goals": "0",
+            "logo": "00100_0001268551_pirinaica.jpg",
+            "name": "PIRINAICA, F.C. A"
           },
           "result": "P"
         },
         {
-          "actaId": "4108887",
+          "actaId": "4108899",
           "away": {
             "goals": "1",
-            "logo": "00100_0000988633_TERRASSAFCnou.png",
-            "name": "FUNDACIÓ TERRASSA FC 1906 A"
+            "logo": "00100_0000971702_Escut_Joanenc.png",
+            "name": "JOANENC, F.C. A"
           },
-          "date": "2026-09-20T00:00:00.000Z",
+          "date": "2026-09-27T00:00:00.000Z",
           "home": {
-            "goals": "1",
-            "logo": "00100_0000001615_sc00737bb2.png",
-            "name": "PUIGREIG, C.E. A"
+            "goals": "4",
+            "logo": "00100_0001268551_pirinaica.jpg",
+            "name": "PIRINAICA, F.C. A"
           },
-          "result": "E"
+          "result": "G"
+        },
+        {
+          "actaId": "4108891",
+          "away": {
+            "goals": "3",
+            "logo": "00100_0001268551_pirinaica.jpg",
+            "name": "PIRINAICA, F.C. A"
+          },
+          "date": "2026-09-19T00:00:00.000Z",
+          "home": {
+            "goals": "0",
+            "logo": "00100_0000574907_alpicat-200x200.png",
+            "name": "ALPICAT , AT. C A"
+          },
+          "result": "G"
         }
       ],
-      "goalsAgainst": "5",
-      "goalsFor": "6",
+      "goalsAgainst": "3",
+      "goalsFor": "8",
       "lost": 1,
-      "played": 5,
-      "points": "8.00",
+      "played": 4,
+      "points": "7.00",
       "position": "5",
       "promotionColor": null,
       "sanction": "0",
       "team": {
-        "clubId": "1029",
-        "logo": "00100_0000001615_sc00737bb2.png",
-        "name": "PUIGREIG, C.E. A",
-        "teamId": "33198"
+        "clubId": "2036",
+        "logo": "00100_0001268551_pirinaica.jpg",
+        "name": "PIRINAICA, F.C. A",
+        "teamId": "33048"
       },
       "won": 2
     },
@@ -643,70 +643,100 @@
       "won": 2
     },
     {
-      "coefficient": "1.5000",
-      "drawn": 0,
+      "coefficient": "1.2000",
+      "drawn": 3,
       "form": [
         {
-          "actaId": "4108914",
+          "actaId": "4108921",
           "away": {
             "goals": "1",
-            "logo": "00100_0001021780_Escut_Gimna__768_stic_Manresa_removebg_preview.png",
-            "name": "GIMNASTIC MANRESA, C.F. A"
+            "logo": "00100_0001268551_pirinaica.jpg",
+            "name": "PIRINAICA, F.C. A"
+          },
+          "date": "2026-10-18T00:00:00.000Z",
+          "home": {
+            "goals": "1",
+            "logo": "00100_0000001615_sc00737bb2.png",
+            "name": "PUIGREIG, C.E. A"
+          },
+          "result": "E"
+        },
+        {
+          "actaId": "4108913",
+          "away": {
+            "goals": "2",
+            "logo": "00100_0000001615_sc00737bb2.png",
+            "name": "PUIGREIG, C.E. A"
           },
           "date": "2026-10-11T00:00:00.000Z",
           "home": {
+            "goals": "1",
+            "logo": "00100_0000485476_NATACIO_TERRASSA,_C.jpeg_copia.png",
+            "name": "NATACIO TERRASSA, C A"
+          },
+          "result": "G"
+        },
+        {
+          "actaId": "4108904",
+          "away": {
             "goals": "0",
-            "logo": "00100_0001268551_pirinaica.jpg",
-            "name": "PIRINAICA, F.C. A"
+            "logo": "00100_0000579415_urgell_200x200.png",
+            "name": "LA SEU D'URGELL, F.C. A"
+          },
+          "date": "2026-10-04T00:00:00.000Z",
+          "home": {
+            "goals": "0",
+            "logo": "00100_0000001615_sc00737bb2.png",
+            "name": "PUIGREIG, C.E. A"
+          },
+          "result": "E"
+        },
+        {
+          "actaId": "4108896",
+          "away": {
+            "goals": "2",
+            "logo": "00100_0000001615_sc00737bb2.png",
+            "name": "PUIGREIG, C.E. A"
+          },
+          "date": "2026-09-27T00:00:00.000Z",
+          "home": {
+            "goals": "3",
+            "logo": "00100_0000822231_igualada_200.png",
+            "name": "IGUALADA, C.F. A"
           },
           "result": "P"
         },
         {
-          "actaId": "4108899",
+          "actaId": "4108887",
           "away": {
             "goals": "1",
-            "logo": "00100_0000971702_Escut_Joanenc.png",
-            "name": "JOANENC, F.C. A"
+            "logo": "00100_0000988633_TERRASSAFCnou.png",
+            "name": "FUNDACIÓ TERRASSA FC 1906 A"
           },
-          "date": "2026-09-27T00:00:00.000Z",
+          "date": "2026-09-20T00:00:00.000Z",
           "home": {
-            "goals": "4",
-            "logo": "00100_0001268551_pirinaica.jpg",
-            "name": "PIRINAICA, F.C. A"
+            "goals": "1",
+            "logo": "00100_0000001615_sc00737bb2.png",
+            "name": "PUIGREIG, C.E. A"
           },
-          "result": "G"
-        },
-        {
-          "actaId": "4108891",
-          "away": {
-            "goals": "3",
-            "logo": "00100_0001268551_pirinaica.jpg",
-            "name": "PIRINAICA, F.C. A"
-          },
-          "date": "2026-09-19T00:00:00.000Z",
-          "home": {
-            "goals": "0",
-            "logo": "00100_0000574907_alpicat-200x200.png",
-            "name": "ALPICAT , AT. C A"
-          },
-          "result": "G"
+          "result": "E"
         }
       ],
-      "goalsAgainst": "3",
-      "goalsFor": "7",
-      "lost": 2,
-      "played": 4,
+      "goalsAgainst": "6",
+      "goalsFor": "6",
+      "lost": 1,
+      "played": 5,
       "points": "6.00",
       "position": "8",
       "promotionColor": null,
       "sanction": "0",
       "team": {
-        "clubId": "2036",
-        "logo": "00100_0001268551_pirinaica.jpg",
-        "name": "PIRINAICA, F.C. A",
-        "teamId": "33048"
+        "clubId": "1029",
+        "logo": "00100_0000001615_sc00737bb2.png",
+        "name": "PUIGREIG, C.E. A",
+        "teamId": "33198"
       },
-      "won": 2
+      "won": 1
     },
     {
       "coefficient": "1.5000",
